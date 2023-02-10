@@ -1,0 +1,15 @@
+@font-face {
+    font-family: aldrich;
+    src: url(font/Aldrich-Regular.ttf);
+}
+@font-face {
+    font-family: alfa;
+    src: url(font/AlfaSlabOne-Regular.ttf);
+}
+.first-sentence{
+    font-family: aldrich;
+    font-weight: bolder;
+    transform: rotate(90deg);
+    margin-top: 320px;
+    margin-left: 100px;
+}
