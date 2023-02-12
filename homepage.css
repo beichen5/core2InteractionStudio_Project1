@@ -23,21 +23,21 @@
 .div1{
     font-family: aldrich;
     font-weight: bolder;
-    margin-top: 0vw;
-    margin-left: -5vw;
+    margin-top: 240px;
+    margin-left: -40px;
 }
 .first-sentence{
     font-family: aldrich;
     font-weight: bolder;
     transform: rotate(90deg);
-    margin-top: 22vw;
-    margin-left: 0vw;
+    margin-top: 320px;
+    margin-left: -40px;
 }
 .second-sentence{
     font-family: aldrich;
     font-weight: bolder;
-    margin-top: 16vw;
-    margin-left: 28vw;
+    margin-top: 225px;
+    margin-left: 355px;
 }
 .third-sentence{
     font-family: aldrich;
