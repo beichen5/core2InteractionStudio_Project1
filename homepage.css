@@ -103,34 +103,35 @@
     font-family: aldrich;
     font-weight: bolder;
     transform: rotate(90deg);
-    margin-top: 55px;
-    margin-left: 305px;
+    margin-top: 75px;
+    margin-left: 290px;
 }
 .tenth-sentence{
     font-family: aldrich;
     font-weight: bolder;
-    margin-top: 70px;
-    margin-left: 384px;
+    margin-top: 50px;
+    margin-left: 386px;
 }
 .eleventh-sentence{
     font-family: aldrich;
     font-weight: bolder;
-    margin-top: -120px;
-    margin-left: 1200px;
+    margin-top: 0px;
+    margin-left: 1215px;
 }
 .twelvth-sentence{
     font-family: aldrich;
     font-weight: bolder;
     transform: rotate(90deg);
-    margin-top: 95px;
-    margin-left: 1360px;
+    margin-top: 58px;
+    margin-left: 1340px;
+    text-align: right;
 }
 .chapter3{
     background-color: #941414;
     color: white;
     font-family: aldrich;
     font-size: 40px;
-    margin-top: -200px;
+    margin-top: -170px;
     margin-left: 1080px;
     border-radius: 50%;
     text-align: center;
@@ -145,13 +146,14 @@
     transform: rotate(90deg);
     margin-top: -105px;
     margin-left: 1950px;
+    text-align: right;
 }
 .title{
     color: #941414;
     font-weight: bolder;
     font-family: aldrich;
     font-size: 80px;
-    margin-top: -315px;
+    margin-top: -275px;
     margin-left: 1640px;
     text-align: right;
 }
@@ -260,8 +262,8 @@
     font-family: aldrich;
     font-weight: bolder;
     transform: rotate(90deg);
-    margin-top: 195px;
-    margin-left: 2265px;
+    margin-top: 220px;
+    margin-left: 2240px;
 }
 .sixteenth-sentence{
     font-family: aldrich;
