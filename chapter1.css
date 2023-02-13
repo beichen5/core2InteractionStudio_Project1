@@ -6,11 +6,15 @@
     font-family: alfa;
     src: url(font/AlfaSlabOne-Regular.ttf);
 }
+body{
+    height: 1000px;
+    width: 2600px
+}
 .chapter{
     color: black;
     font-family: aldrich;
     font-weight: bolder;
-    font-size: 130px;
+    font-size: 150px;
     display:flex;
     justify-content: space-between;
     flex-direction: row;
