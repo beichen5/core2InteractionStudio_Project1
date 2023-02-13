@@ -1,0 +1,33 @@
+@font-face {
+    font-family: aldrich;
+    src: url(font/Aldrich-Regular.ttf);
+}
+@font-face {
+    font-family: alfa;
+    src: url(font/AlfaSlabOne-Regular.ttf);
+}
+.chapter{
+    color: black;
+    font-family: aldrich;
+    font-weight: bolder;
+    font-size: 130px;
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+.chapter1{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.chapter1-2{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.chapter1-3{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
