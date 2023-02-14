@@ -8,7 +8,7 @@
 }
 body{
     height: 800px;
-    width: 1650px
+    width: 1700px
 }
 .p1{
     height: 300px;
@@ -139,6 +139,20 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.p9{
+    height: 250px;
+    width: 350px;
+    position:relative;
+    left: 85vw;
+    top: -70vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.silently{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
 .chapter{
     color: black;
     font-family: aldrich;
@@ -148,7 +162,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-2200px;
+    margin-top:-2300px;
     position:relative;
     z-index: 10;
 }
