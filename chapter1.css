@@ -66,10 +66,10 @@ body{
     z-index: 20;
 }
 .p4{
-    height: 350px;
-    width: 490px;
+    height: 360px;
+    width: 480px;
     position:relative;
-    left: 78vw;
+    left: 84vw;
     top: -52vw;
     background-color: white;
     text-align: left;
@@ -140,16 +140,90 @@ body{
     font-family: aldrich;
 }
 .p9{
-    height: 250px;
+    height: 230px;
     width: 350px;
     position:relative;
-    left: 85vw;
+    left: 93vw;
     top: -70vw;
     background-color: white;
     text-align: left;
     z-index: 20;
 }
+.going{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p10{
+    height: 240px;
+    width: 480px;
+    position:relative;
+    left: 51.5vw;
+    top: -75vw;
+    background-color: #941414;
+    text-align: left;
+}
 .silently{
+    height: 210px;
+    width: 435px;
+    position:relative;
+    padding: 1vw 2vw;
+    color: white;
+    text-align: left;
+    z-index: 20;
+}
+.p11{
+    height: 110px;
+    width: 480px;
+    position:relative;
+    left: 10vw;
+    top: -100vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.last{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p12{
+    height: 400px;
+    width: 300px;
+    position:relative;
+    left: 5vw;
+    top: -97vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.utter{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p13{
+    height: 120px;
+    width: 600px;
+    position:relative;
+    left: 30vw;
+    top: -103vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.foresee{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p14{
+    height: 150px;
+    width: 300px;
+    position:relative;
+    left: 80vw;
+    top: -120vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.thus{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
@@ -162,7 +236,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-2300px;
+    margin-top:-3520px;
     position:relative;
     z-index: 10;
 }
