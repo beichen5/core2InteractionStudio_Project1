@@ -31,11 +31,11 @@ body{
     color: #941414;
 }
 .p2{
-    height: 170px;
+    height: 180px;
     width: 400px;
     position:relative;
     left: 60vw;
-    top: 0vw;
+    top: 1vw;
     background-color: white;
     text-align: left;
     z-index: 20;
