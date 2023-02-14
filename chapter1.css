@@ -8,7 +8,7 @@
 }
 body{
     height: 800px;
-    width: 2600px
+    width: 1600px
 }
 .p1{
     height: 320px;
@@ -40,9 +40,9 @@ body{
 }
 .p3{
     height: 190px;
-    width: 500px;
+    width: 480px;
     position:relative;
-    left: 20vw;
+    left: 17vw;
     top: -8vw;
     background-color: #941414;
     text-align: left;
@@ -56,6 +56,20 @@ body{
     text-align: left;
     z-index: 20;
 }
+.p4{
+    height: 350px;
+    width: 500px;
+    position:relative;
+    left: 80vw;
+    top: -52vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.in{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
 .chapter{
     color: black;
     font-family: aldrich;
@@ -65,7 +79,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-800px;
+    margin-top:-1120px;
     position:relative;
     z-index: 10;
 }
