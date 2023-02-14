@@ -8,10 +8,10 @@
 }
 body{
     height: 800px;
-    width: 1600px
+    width: 1650px
 }
 .p1{
-    height: 320px;
+    height: 300px;
     width: 500px;
     position:relative;
     left: 10vw;
@@ -21,8 +21,14 @@ body{
     z-index: 20;
 }
 .and{
-    padding: 2.5vw 2vw;
+    padding: 1.5vw 2vw;
     font-family: aldrich;
+}
+.arrested{
+    color: #941414;
+}
+.agents{
+    color: #941414;
 }
 .p2{
     height: 170px;
@@ -35,8 +41,11 @@ body{
     z-index: 20;
 }
 .then{
-    padding: 2vw 2vw;
+    padding: 1vw 2vw;
     font-family: aldrich;
+}
+.countless{
+    color: #941414;
 }
 .p3{
     height: 230px;
@@ -58,15 +67,75 @@ body{
 }
 .p4{
     height: 350px;
-    width: 500px;
+    width: 490px;
     position:relative;
-    left: 80vw;
+    left: 78vw;
     top: -52vw;
     background-color: white;
     text-align: left;
     z-index: 20;
 }
 .in{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p5{
+    height: 330px;
+    width: 400px;
+    position:relative;
+    left: 0vw;
+    top: -34vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.sat{
+    padding: 1vw 1.5vw;
+    font-family: aldrich;
+}
+.p6{
+    height: 100px;
+    width: 600px;
+    position:relative;
+    left: 45vw;
+    top: -60vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.ten{
+    padding: 1vw 2vw;
+    font-family: aldrich;
+}
+.p7{
+    height: 265px;
+    width: 450px;
+    position:relative;
+    left: 73vw;
+    top: -59vw;
+    background-color: #941414;
+    text-align: left;
+}
+.timorous{
+    height: 210px;
+    width: 410px;
+    position:relative;
+    padding: 1vw 2vw;
+    color: white;
+    text-align: left;
+    z-index: 20;
+}
+.p8{
+    height: 230px;
+    width: 300px;
+    position:relative;
+    left: 55vw;
+    top: -60vw;
+    background-color: white;
+    text-align: left;
+    z-index: 20;
+}
+.carried{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
@@ -79,7 +148,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-1120px;
+    margin-top:-2200px;
     position:relative;
     z-index: 10;
 }
