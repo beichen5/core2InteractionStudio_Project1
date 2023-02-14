@@ -11,7 +11,7 @@ body{
     width: 2600px
 }
 .p1{
-    height: 400px;
+    height: 320px;
     width: 500px;
     position:relative;
     left: 10vw;
@@ -20,7 +20,21 @@ body{
     text-align: left;
 }
 .and{
-    padding: 40px 20px;
+    padding: 2.5vw 2vw;
+    font-family: aldrich;
+}
+.p2{
+    height: 230px;
+    width: 500px;
+    position:relative;
+    left: 60vw;
+    top: 0vw;
+    background-color: white;
+    text-align: left;
+}
+.went{
+    padding: 2.5vw 2vw;
+    font-family: aldrich;
 }
 .chapter{
     color: black;
@@ -31,7 +45,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-420px;
+    margin-top:-580px;
 }
 .chapter1{
     display:flex;
