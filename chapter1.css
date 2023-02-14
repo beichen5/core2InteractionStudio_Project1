@@ -25,8 +25,8 @@ body{
     font-family: aldrich;
 }
 .p2{
-    height: 210px;
-    width: 500px;
+    height: 170px;
+    width: 400px;
     position:relative;
     left: 60vw;
     top: 0vw;
@@ -34,12 +34,12 @@ body{
     text-align: left;
     z-index: 20;
 }
-.went{
+.then{
     padding: 2vw 2vw;
     font-family: aldrich;
 }
 .p3{
-    height: 190px;
+    height: 230px;
     width: 480px;
     position:relative;
     left: 17vw;
@@ -47,11 +47,11 @@ body{
     background-color: #941414;
     text-align: left;
 }
-.Then{
+.went{
     height: 210px;
-    width: 450px;
+    width: 435px;
     position:relative;
-    padding: 2vw 2vw;
+    padding: 1vw 2vw;
     color: white;
     text-align: left;
     z-index: 20;
