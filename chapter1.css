@@ -18,23 +18,43 @@ body{
     top: 0vw;
     background-color: white;
     text-align: left;
+    z-index: 20;
 }
 .and{
     padding: 2.5vw 2vw;
     font-family: aldrich;
 }
 .p2{
-    height: 230px;
+    height: 210px;
     width: 500px;
     position:relative;
     left: 60vw;
     top: 0vw;
     background-color: white;
     text-align: left;
+    z-index: 20;
 }
 .went{
-    padding: 2.5vw 2vw;
+    padding: 2vw 2vw;
     font-family: aldrich;
+}
+.p3{
+    height: 190px;
+    width: 500px;
+    position:relative;
+    left: 20vw;
+    top: -8vw;
+    background-color: #941414;
+    text-align: left;
+}
+.Then{
+    height: 210px;
+    width: 450px;
+    position:relative;
+    padding: 2vw 2vw;
+    color: white;
+    text-align: left;
+    z-index: 20;
 }
 .chapter{
     color: black;
@@ -45,7 +65,9 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top:-580px;
+    margin-top:-800px;
+    position:relative;
+    z-index: 10;
 }
 .chapter1{
     display:flex;
