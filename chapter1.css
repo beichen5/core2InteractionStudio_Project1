@@ -17,6 +17,10 @@ body{
     left: 10vw;
     top: 0vw;
     background-color: white;
+    text-align: left;
+}
+.and{
+    padding: 40px 20px;
 }
 .chapter{
     color: black;
@@ -27,7 +31,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
-    margin-top: -29vw;
+    margin-top:-420px;
 }
 .chapter1{
     display:flex;
