@@ -7,8 +7,16 @@
     src: url(font/AlfaSlabOne-Regular.ttf);
 }
 body{
-    height: 1000px;
+    height: 800px;
     width: 2600px
+}
+.p1{
+    height: 400px;
+    width: 500px;
+    position:relative;
+    left: 10vw;
+    top: 0vw;
+    background-color: white;
 }
 .chapter{
     color: black;
@@ -19,6 +27,7 @@ body{
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
+    margin-top: -29vw;
 }
 .chapter1{
     display:flex;
