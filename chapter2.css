@@ -51,7 +51,7 @@ body{
 }
 .moment {
     width:300px;
-    margin-top: -60vh;
+    margin-top: -30vw;
     margin-left: 22vw;
 	transition: all .5s;
 	position:relative;
@@ -66,7 +66,7 @@ body{
 }
 .under {
     width:200px;
-    margin-top: -30vh;
+    margin-top: -10vw;
     margin-left: 41vw;
 	transition: all .5s;
 	position:relative;
@@ -81,7 +81,7 @@ body{
 }
 .lost {
     width:400px;
-    margin-top: -40vh;
+    margin-top: -20vw;
     margin-left: 50vw;
 	transition: all .5s;
 	position:relative;
@@ -96,7 +96,7 @@ body{
 }
 .road {
     width:200px;
-    margin-top: -30vh;
+    margin-top: -20vw;
     margin-left: 65vw;
 	transition: all .5s;
 	position:relative;
@@ -126,7 +126,7 @@ body{
 }
 .meditating {
     width:150px;
-    margin-top: -48vh;
+    margin-top: -20vw;
     margin-left: 82vw;
 	transition: all .5s;
 	position:relative;
@@ -156,7 +156,7 @@ body{
 }
 .open {
     width:130px;
-    margin-top: -35vh;
+    margin-top: -25vw;
     margin-left: 103vw;
 	transition: all .5s;
 	position:relative;
@@ -171,7 +171,7 @@ body{
 }
 .see {
     width:130px;
-    margin-top: 10vh;
+    margin-top: 2vw;
     margin-left: 103vw;
 	transition: all .5s;
 	position:relative;
@@ -186,7 +186,7 @@ body{
 }
 .recognizing {
     width:170px;
-    margin-top: -60vh;
+    margin-top: -10vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -201,7 +201,7 @@ body{
 }
 .garden {
     width:170px;
-    margin-top: 2vh;
+    margin-top: 1vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -216,7 +216,7 @@ body{
 }
 .paths {
     width:170px;
-    margin-top: 2vh;
+    margin-top: 1vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -231,7 +231,7 @@ body{
 }
 .something {
     width:170px;
-    margin-top: 2vh;
+    margin-top: 1vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -246,7 +246,7 @@ body{
 }
 .ancestor {
     width:170px;
-    margin-top: 2vh;
+    margin-top: 1vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -261,7 +261,7 @@ body{
 }
 .illustrious {
     width:170px;
-    margin-top: 2vh;
+    margin-top: 1vw;
     margin-left: 110vw;
 	transition: all .5s;
 	position:relative;
@@ -276,7 +276,7 @@ body{
 }
 .damp {
     width:350px;
-    margin-top: -20vh;
+    margin-top: -25vw;
     margin-left: 120vw;
 	transition: all .5s;
 	position:relative;
@@ -291,8 +291,9 @@ body{
 }
 .stephen {
     width:150px;
-    margin-top: -20vh;
+    margin-top: -6vw;
     margin-left: 142vw;
+    margin-right:1vw;
 	transition: all .5s;
 	position:relative;
     font-family: arnoproreg;
