@@ -2,10 +2,6 @@
     font-family: aldrich;
     src: url(font/Aldrich-Regular.ttf);
 }
-@font-face {
-    font-family: alfa;
-    src: url(font/AlfaSlabOne-Regular.ttf);
-}
 body{
     height: 100px;
 }

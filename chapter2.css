@@ -3,32 +3,312 @@
     src: url(font/Aldrich-Regular.ttf);
 }
 @font-face {
-    font-family: alfa;
-    src: url(font/AlfaSlabOne-Regular.ttf);
+    font-family: arnoproreg;
+    src: url(font/ArnoPro-Regular.otf);
+}
+@font-face {
+    font-family: arnoprobold;
+    src: url(font/ArnoPro-BoldSubhead.otf);
 }
 body{
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(background/background.jpeg) no-repeat 0% 20%/ cover;;
+    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(background/background.jpeg) no-repeat 0% 20%;
+}
+.chapter2{
+    font-size: 40px;
+    font-family: aldrich;
+    margin-top: 2vh;
+    margin-left:1vw;
 }
 .train {
+    width:200px;
+    margin-top: 2vh;
+    margin-left: 3vw;
 	transition: all .5s;
 	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 10%;
 }
 .train:hover {
 	color: #000000;
+    opacity: 100%;
+    z-index:20;
 }
-.train:after {
-	content: '';
-	position: absolute;
-	height: 3px;
-	width: 0%;
-	bottom: 0;
-    left:0;
-    opacity:0;
-	margin-top: -8px;
-	background: #000000;
+.lamp {
+    width:200px;
+    margin-top: -2vh;
+    margin-left: 10vw;
 	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
 }
-.train:hover::after {
-	opacity:1;
-    width:100%;
+.lamp:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.moment {
+    width:300px;
+    margin-top: -60vh;
+    margin-left: 22vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 30%;
+}
+.moment:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.under {
+    width:200px;
+    margin-top: -30vh;
+    margin-left: 41vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.under:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.lost {
+    width:400px;
+    margin-top: -40vh;
+    margin-left: 50vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 10%;
+}
+.lost:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.road {
+    width:200px;
+    margin-top: -30vh;
+    margin-left: 65vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.road:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.thought {
+    width:200px;
+    margin-top: 0vh;
+    margin-left: 70vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 30%;
+}
+.thought:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.meditating {
+    width:150px;
+    margin-top: -48vh;
+    margin-left: 82vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.meditating:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.but {
+    width:200px;
+    margin-top: -30vh;
+    margin-left: 90vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 10%;
+}
+.but:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.open {
+    width:130px;
+    margin-top: -35vh;
+    margin-left: 103vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.open:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.see {
+    width:130px;
+    margin-top: 10vh;
+    margin-left: 103vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 30%;
+}
+.see:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.recognizing {
+    width:170px;
+    margin-top: -60vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.recognizing:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.garden {
+    width:170px;
+    margin-top: 2vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 10%;
+}
+.garden:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.paths {
+    width:170px;
+    margin-top: 2vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.paths:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.something {
+    width:170px;
+    margin-top: 2vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 30%;
+}
+.something:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.ancestor {
+    width:170px;
+    margin-top: 2vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.ancestor:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.illustrious {
+    width:170px;
+    margin-top: 2vh;
+    margin-left: 110vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 10%;
+}
+.illustrious:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.damp {
+    width:350px;
+    margin-top: -20vh;
+    margin-left: 120vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 20%;
+}
+.damp:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+.stephen {
+    width:150px;
+    margin-top: -20vh;
+    margin-left: 142vw;
+	transition: all .5s;
+	position:relative;
+    font-family: arnoproreg;
+    color: #941414;
+    opacity: 30%;
+}
+.stephen:hover {
+	color: #000000;
+    opacity: 100%;
+    z-index:20;
+}
+a:link{
+    color: black;
+    text-decoration: none;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
 }
