@@ -13,3 +13,27 @@ $("#w1").click(function(){
   $("#w5").click(function(){
     $(".p6").slideToggle();
   });
+  $("#w6").click(function(){
+    $(".p7").slideToggle();
+  });
+  $("#w7").click(function(){
+    $(".p8").slideToggle();
+  });
+  $("#w8").click(function(){
+    $(".p10").slideToggle();
+  });
+  $("#w9").click(function(){
+    $(".p9").slideToggle();
+  });
+  $("#w10").click(function(){
+    $(".p11").slideToggle();
+  });
+  $("#w11").click(function(){
+    $(".p12").slideToggle();
+  });
+  $("#w12").click(function(){
+    $(".p13").slideToggle();
+  });
+  $("#w13").click(function(){
+    $(".p14").slideToggle();
+  });

@@ -118,6 +118,12 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.name{
+    color: #941414;
+}
+.train{
+    color: #941414;
+}
 .p7{
     height: 265px;
     width: 450px;
@@ -152,6 +158,12 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.save{
+    color: #941414;
+}
+.knock{
+    color: #941414;
+}
 .p9{
     height: 230px;
     width: 350px;
@@ -167,12 +179,15 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.village{
+    color: #941414;
+}
 .p10{
     height: 240px;
     width: 480px;
     position:relative;
     left: 51.5vw;
-    top: -75vw;
+    top: -60vw;
     background-color: #941414;
     text-align: left;
     display:none;
@@ -201,6 +216,9 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.captain{
+    color: #941414;
+}
 .p12{
     height: 400px;
     width: 300px;
@@ -216,6 +234,9 @@ body{
     padding: 1vw 2vw;
     font-family: aldrich;
 }
+.accident{
+    color: #941414;
+}
 .p13{
     height: 120px;
     width: 600px;
@@ -230,6 +251,9 @@ body{
 .foresee{
     padding: 1vw 2vw;
     font-family: aldrich;
+}
+.advice{
+    color: #941414;
 }
 .p14{
     height: 150px;
