@@ -53,7 +53,7 @@ body{
     width: 480px;
     position:relative;
     left: 17vw;
-    top: -8vw;
+    top: 0vw;
     background-color: #941414;
     text-align: left;
     display: none;
@@ -66,6 +66,7 @@ body{
     color: white;
     text-align: left;
     z-index: 20;
+    font-family: aldrich;
 }
 .p4{
     height: 360px;
@@ -142,6 +143,7 @@ body{
     color: white;
     text-align: left;
     z-index: 20;
+    font-family: aldrich;
 }
 .p8{
     height: 230px;
@@ -200,6 +202,7 @@ body{
     color: white;
     text-align: left;
     z-index: 20;
+    font-family: aldrich;
 }
 .p11{
     height: 110px;
