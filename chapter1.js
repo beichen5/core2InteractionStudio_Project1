@@ -10,3 +10,6 @@ $("#w1").click(function(){
   $("#w4").click(function(){
     $(".p5").slideToggle();
   });
+  $("#w5").click(function(){
+    $(".p6").slideToggle();
+  });
