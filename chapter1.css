@@ -2,8 +2,26 @@
     font-family: aldrich;
     src: url(font/Aldrich-Regular.ttf);
 }
+@-webkit-keyframes changecolor {
+    0% {
+      color: black;
+    }
+    50% {
+      color: #941414;
+      text-shadow: 0 0 2px #941414;
+    }
+    100%{
+        color: black;
+    }
+}
 body{
     height: 100px;
+}
+span{
+    animation-name: changecolor;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: steps(24);
 }
 .p1{
     height: 300px;

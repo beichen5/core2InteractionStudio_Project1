@@ -11,13 +11,15 @@
     src: url(font/ArnoPro-BoldSubhead.otf);
 }
 body{
-    background: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5)), url(background/background.jpeg) no-repeat 0% 20%;
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(background/background.jpeg) no-repeat 0% 10%;
+    cursor: url(icon/zoomout.png),default;
 }
 .chapter2{
     font-size: 40px;
     font-family: aldrich;
     margin-top: 2vh;
     margin-left:1vw;
+    color:#941414;
 }
 .train {
     width:200px;
@@ -306,10 +308,13 @@ body{
     z-index:20;
 }
 a:link{
-    color: black;
+    color: #000000;
     text-decoration: none;
 }
 a:visited{
-    color: black;
+    color: #941414;
     text-decoration: none;
+}
+a:hover{
+    text-shadow:0 0 8px #941414;
 }

@@ -1,0 +1,176 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+  html,
+  body {
+    background: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url(background/background.jpeg) no-repeat 0% 10%;
+    width: 100%;
+    height: 100%;
+  }
+  @font-face {
+    font-family: aldrich;
+    src: url(font/Aldrich-Regular.ttf);
+}
+@font-face {
+    font-family: arnoproreg;
+    src: url(font/ArnoPro-Regular.otf);
+}
+@font-face {
+    font-family: arnoprobold;
+    src: url(font/ArnoPro-BoldSubhead.otf);
+}
+  .chapter3{
+    font-size: 40px;
+    font-family: aldrich;
+    margin-top: 2vh;
+    margin-left:1vw;
+    color:#941414;
+    transition: all 1s;
+    opacity:30%
+}
+.chapter3:hover {
+	opacity: 100%;
+}
+
+  .rec1 {
+    width: 300px;
+    height: 200px;
+    top:5vw;
+    left:70vw;
+    position: absolute;
+    background: #941414;
+  }
+
+  .circle1 {
+    width: 200px;
+    height: 200px;
+    top: 10vw;
+    left: 60vw;
+    background-color: #941414;
+    border-radius: 50%;
+    position: absolute;
+  }
+  .rec2 {
+    width: 200px;
+    height: 400px;
+    top:20vw;
+    left:38vw;
+    position: absolute;
+    background: #941414;
+  }
+  .rec3 {
+    width: 300px;
+    height: 100px;
+    top:46vw;
+    left:23vw;
+    position: absolute;
+    background: #941414;
+  }
+  .circle2 {
+    width: 100px;
+    height: 100px;
+    top: 4vw;
+    left: 10vw;
+    background-color: #941414;
+    border-radius: 50%;
+    position: absolute;
+  }
+
+.text{
+    color: #000000;
+    font-family: arnoproreg;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5vw;
+}
+.row1{
+    width: 30%;
+    height: 100%;
+}
+.row2{
+    width: 30%;
+    height: 100%;
+}
+.row3{
+    width: 30%;
+    height: 100%;
+}
+.we{
+    margin-left:1vw;
+}
+.strange{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.those{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.here{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.ivory{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.symbolic{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.ts{
+    margin-left:1vw;
+    margin-top:1vw;
+}
+.two{
+    margin-left:1vw;
+}
+.albert{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.handed{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.before{
+    margin-left:1vw;
+    margin-top: 1vw;
+}
+.conjectures{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+.naturally{
+    margin-top: 1vw;
+    margin-left:1vw;
+}
+.fang{
+    margin-left: 1vw;
+}
+.if{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+.countenance{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+.with{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+.proper{
+    margin-left: 1vw;
+    margin-top: 1vw;
+}
+
+a:link{
+    color: #000000;
+    text-decoration: none;
+}
+a:visited{
+    color: #941414;
+    text-decoration: none;
+}
