@@ -1,0 +1,125 @@
+@font-face {
+    font-family: aldrich;
+    src: url(font/Aldrich-Regular.ttf);
+}
+body{
+    background-color: black;
+}
+.whole{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1vw;
+}
+.row1{
+    width: 30%;
+}
+.row2{
+    width: 30%;
+}
+.row3{
+    width: 30%;
+}
+.moment{
+    margin-left: 1vw;
+    margin-top: 2vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.do{
+    margin-left: 1vw;
+    margin-top: 5vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.proposed{
+    margin-top: 15vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.word{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.precisely{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.explanation{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.in{
+    margin-top: 5vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.not{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.once{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.future{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.albert{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+.what{
+    margin-top: 1vw;
+    background-color: black;
+    font-family: aldrich;
+}
+p{
+    color:white;
+}
+span{
+    color: black;
+}
+span:hover{
+    color:white;
+}
+.chapter{
+    color: #941414;
+    font-family: aldrich;
+    font-weight: bolder;
+    font-size: 119px;
+    display:flex;
+    justify-content: space-between;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    top:0;
+    position:fixed;
+    z-index: -10;
+}
+.chapter4{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+.chapter4-2{
+    display:flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-left: 3vw;
+}
+a:link{
+    color: #941414;
+    text-decoration: none;
+}
+a:visited{
+    color: #941414;
+    text-decoration: none;
+}
+
