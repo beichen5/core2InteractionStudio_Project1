@@ -24,42 +24,58 @@ body{
     margin-top: 2vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .do{
     margin-left: 1vw;
     margin-top: 5vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .proposed{
     margin-top: 15vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .word{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .precisely{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .explanation{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .in{
     margin-top: 5vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .not{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .once{
     margin-top: 1vw;
@@ -70,16 +86,22 @@ body{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .albert{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .what{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 p{
     color:white;
@@ -94,14 +116,14 @@ span:hover{
     color: #941414;
     font-family: aldrich;
     font-weight: bolder;
-    font-size: 119px;
+    font-size: 117px;
     display:flex;
     justify-content: space-between;
     flex-direction: row;
     flex-wrap: nowrap;
     top:0;
     position:fixed;
-    z-index: -10;
+    z-index: 10;
 }
 .chapter4{
     display:flex;
