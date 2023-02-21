@@ -81,6 +81,8 @@ body{
     margin-top: 1vw;
     background-color: black;
     font-family: aldrich;
+    position:relative;
+    z-index:20;
 }
 .future{
     margin-top: 1vw;
